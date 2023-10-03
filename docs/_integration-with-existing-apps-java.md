@@ -75,7 +75,7 @@ yarn add react@version_printed_above
 </TabItem>
 </Tabs>
 
-Yarn has created a new `/node_modules` folder. This folder stores all the JavaScript dependencies required to build your project.
+The previous commands create a new `/node_modules` folder. This folder stores all the JavaScript dependencies required to build your project.
 
 Add `node_modules/` to your `.gitignore` file.
 
